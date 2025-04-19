@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I am Andre Petrella</h1>
-<h3 align="center">A student who is delving into developing and coding</h3>
+<h3 align="center">A student who is passionate about developing and coding</h3>
 
 - 📍 From **São Paulo - SP**
 
 - 🧑‍💻 Always up to learning new things and helping people with things I know
 
-- 🌱 I’m currently learning: **Java, JS, Web-Site Developing, DB, etc.**
+- 🌱 I’m currently learning: **Java, JS, Website Development, DB, etc.**
 
 - 📫 How to reach me: **petrellaandre@gmail.com**
 
