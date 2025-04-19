@@ -3,7 +3,7 @@
 
 - 📍 From **São Paulo - SP**
 
-- 🧑‍💻 Always up to learning new things and to share what I have learned
+- 🧑‍💻 Always up to learning new things and to share what I've learned
 
 - 🌱 I’m currently learning: **Java, JS, Website Development, MySQL, etc.**
 
