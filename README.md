@@ -5,9 +5,9 @@
 
 - 🧑‍💻 Always up to learning new things and helping people with things I know
 
-- 🌱 I’m currently learning **Java, JS, Web-Site Developing, DB, etc.**
+- 🌱 I’m currently learning: **Java, JS, Web-Site Developing, DB, etc.**
 
-- 📫 How to reach me **petrellaandre@gmail.com**
+- 📫 How to reach me: **petrellaandre@gmail.com**
 
 - ⚡ Fun fact: **I like to play the piano :)**
 
