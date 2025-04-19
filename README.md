@@ -3,13 +3,13 @@
 
 - 📍 From **São Paulo - SP**
 
-- 🧑‍💻 Always up to learning new things and helping people with what I have learned
+- 🧑‍💻 Always up to learning new things and to share what I have learned
 
-- 🌱 I’m currently learning: **Java, JS, Website Development, mySQL, etc.**
+- 🌱 I’m currently learning: **Java, JS, Website Development, MySQL, etc.**
 
 - 📫 How to reach me: **petrellaandre@gmail.com**
 
-- 🗣️ Communication: **English (Proficient), Portuguese (Native)**
+- 🌐 Communication: **English (Proficient), Portuguese (Native)**
 
 - ⚡ Fun fact: **I like to play the piano :)**
 
