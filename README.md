@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **petrellaandre@gmail.com**
 
-- 🗣️ Languages: **English (Proficient), Portuguese (Native)**
+- 🗣️ Communication: **English (Proficient), Portuguese (Native)**
 
 - ⚡ Fun fact: **I like to play the piano :)**
 
