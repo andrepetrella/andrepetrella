@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I am Andre Petrella</h1>
-<h3 align="center">A student who is passionate about developing and coding</h3>
+
+> "From the military school of Life — what doesn't kill me, makes me stronger."
 
 - 📍 From **São Paulo - SP**
 
