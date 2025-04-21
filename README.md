@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am Andre Petrella</h1>
 
-> "From the military school of Life — what doesn't kill me, makes me stronger."
+> "From the military school life — what doesn't kill me, makes me stronger."
 
 - 📍 From **São Paulo - SP**
 
