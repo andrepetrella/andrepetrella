@@ -2,15 +2,9 @@
 
 > "From the military school life — what doesn't kill me, makes me stronger."
 
-- 📍 From **São Paulo - SP**
+- 📍 **São Paulo - SP**
 
-- 🧑‍💻 Always up to learning new things and to share what I've learned
-
-- 🌱 I’m currently learning: **Java, C#, JS, Website Development, MySQL, etc.**
-
-- 📫 How to reach me: **petrellaandre@gmail.com**
-
-- 🌐 Communication: **English (Proficient), Portuguese (Native)**
+- 📫 Reach me: **petrellaandre@gmail.com**
 
 - ⚡ Fun fact: **I like to play the piano :)**
 
